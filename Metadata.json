@@ -1,0 +1,20 @@
+{
+    "Author": "Daniel Neumann",
+    "ContentSize": 7871,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/microsoft-azure-storage-performance-health-check/master/Get-AzureRmStoragePerformanceHealth.ps1",
+    "DownloadCount": 1568,
+    "Id": "Azure-storage-performance-3e18fe3d",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 283,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2017-1-31T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The Power Shell script checks the current storage performance and usage\u00a0of all Azure storage accounts in one Azure subscription. For more details visit the following blog article to get more insights about this script.",
+    "Title": "Microsoft Azure storage performance health check",
+    "UpdatedDate": "2017-9-21T00:00:00",
+    "Url": "https://github.com/azureautomation/microsoft-azure-storage-performance-health-check",
+    "UserTags": "Microsoft Azure, Windows Azure Virtual Machines, azure storage"
+}
